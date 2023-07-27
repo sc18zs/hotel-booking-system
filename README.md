@@ -46,7 +46,7 @@ In the user order query page, session is used to store the order filter informat
 When the user enters the login information, the user record will be matched in the data, and if the information is correct, it will redirect to the hotel page. When you select the option to remain logged in at logon time, the site will use cookie user information to automatically log in the next time the user opens a web page. The website will remind you to use cookies on the front page. Users can log out by clicking the logout link at the top right. Flash reminds the user of their current status when they log in and log out successfully. The site allows users to change their passwords. The site provides a form for users to enter their account information and a new password, and flash alerts when the password is incorrectly formatted or the account information is incorrect.
 
 ### Styling
-
+![image](https://github.com/sc18zs/hotel-booking-system/blob/main/IMG/style.png)
 The web page follows a responsive design to ensure a good user experience on different devices.
 
 ### Logging
@@ -63,9 +63,11 @@ The site has set up an interface to call Api interface to display the location o
 This website also provide an entrance to the background stage for administrator.
 
 ### Send email
+![image](https://github.com/sc18zs/hotel-booking-system/blob/main/IMG/message.png)
 Every time when user finished booking, a confirm email will be received from admin.
 
 ## Analysis and evaluation
+![image](https://github.com/sc18zs/hotel-booking-system/blob/main/IMG/evaluation.png)
 The website test results on main web browsers are as follows: As shown here, the style and some features can be implemented successfully in these web browsers. The following is a detailed assessment of each function:
 
 1. Web forms: the designed forms can successfully allowed user to input data and post data into server side to do operations. It can give warnings for wrong input format and also receive flash information from server side and display to users which is much more convenient for individual to check webpage status. However, this website need to collect some identity information, like ID number, which may be hard to validate except only by checking data format.
