@@ -33,7 +33,7 @@ Same conditions described above applies to form submissions that change password
 
 ### Database
 
-![image]()
+![image](https://github.com/sc18zs/hotel-booking-system/blob/main/IMG/database.png)
 ### Sessions or cookies
 
 
