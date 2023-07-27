@@ -1,0 +1,37 @@
+div.order-form{
+	position: relative;
+	width: 80%;
+	left:10%;
+}
+
+
+#warning{
+	color: #C0C0C0;
+}
+
+div.form-group{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 150px;
+}
+
+input[type=text]{
+	padding-right: 60px;
+}
+
+#notes{
+	width:100%;
+}
+
+#description{
+	width: 100%;
+}
+
+button[type=submit]{
+	padding: 8px 60px;
+}
+
+button[type=submit]:hover{
+	background-color:#1E90FF;
+	color: white;
+}

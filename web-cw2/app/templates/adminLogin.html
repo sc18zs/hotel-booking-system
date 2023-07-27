@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+
+{% block page_content %}
+    <!--display the admin login form-->
+    <div class="login-form">
+        <center>
+        <div class="input-form">
+            {{ wtf.quick_form(form) }}
+        </div>
+        </center>
+    </div>
+    <!--end of admin login form-->
+{% endblock %}

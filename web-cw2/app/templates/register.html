@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block page_content %}
+
+    <div class="register">
+    <!--display registration form-->
+        <div class="signup-form" id="register-form">
+            <h4>Create your account</h4>
+            <div class="register-form">
+                {{ wtf.quick_form(form) }}
+            </div>
+        </div>
+    <!--end of registration-->
+    </div>
+
+
+{% endblock %}

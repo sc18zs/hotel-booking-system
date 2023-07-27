@@ -1,0 +1,35 @@
+div.login-form{
+	text-align: center;
+	margin-top:30px;
+}
+div.login-form img{
+	border-radius:50%;
+}
+
+div.input-form{
+	margin-top: 20px;
+	width:30%;
+}
+div.link{
+	margin-top: 10px;
+	color: gainsboro;
+}
+div.link p:hover{
+	color:lightslategrey;
+}
+
+div.signup-form{
+	border: solid gainsboro 1px;
+	border-radius: 5px;
+	width: 50%;
+	position: relative;
+	left:25%;
+	top:50px;
+	padding:30px 30px;
+}
+
+@media (max-width: 768px) {
+	div.input-form{
+		width: 80%;
+	}
+}

@@ -1,0 +1,32 @@
+{% extends 'admin/master.html' %}
+
+{% block body %}
+  <!--display the admin homepage-->
+		    <div class="intro" style="width: 80%;margin-top: 30px;">
+                <h1>Welcome to the management system</h1>
+                <button style="margin: 10px" type="submit" class="btn btn-primary" >
+                    <a style="color:white" href="{{ url_for('logout') }}">Log out the management system</a>
+                </button>
+            </div>
+    <!--end of admin home page-->
+{% endblock %}
+
+
+
+<!--display the admin login form-->
+		    <center>
+		    <div class="admin-login-form" style="width: 40%;">
+				<form>
+					<div class="form-group">
+						<input type="text" class="form-control" placeholder="Admin">
+					</div>
+					<div class="form-group">
+						<input type="password" class="form-control" placeholder="Password">
+					</div>
+					<div class="form-group">
+						<button type="submit" class="form-control">Login</button>
+					</div>
+				</form>
+		    </div>
+		    </center>
+    <!--end of admin login form-->

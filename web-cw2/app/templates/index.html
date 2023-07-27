@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+
+{% block page_content %}
+    <!--display the login form-->
+    <div class="login-form" style="margin-bottom: 150px;">
+        <img src="../static/image/pool.jpg" alt="pool" width="200px" height="200px">
+        <center>
+        <div class="input-form">
+            {{ wtf.quick_form(form) }}
+        </div>
+        </center>
+        <div class="link">
+            <p><a href="{{ url_for('register') }}">No account? Sign up here!</a></p>
+            <p><a href="{{ url_for('passwordChange') }}">Change password here</a></p>
+            <p><a href="{{ url_for('adminLogin') }}">Login as administrator</a></p>
+        </div>
+    </div>
+    <!--end of login form-->
+{% endblock %}
+
+{% block scripts %}
+    {{ super() }}
+    <script src="../static/js/index.js"></script>
+{% endblock %}

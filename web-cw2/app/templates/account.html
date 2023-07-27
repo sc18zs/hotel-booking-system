@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{% block styles %}
+    {{ super() }}
+    <link rel="stylesheet" href="../static/css/account.css">
+{% endblock %}
+
+
+{% block page_content %}
+    <!-- display the navigation bar -->
+	<div class="col-sm-2">
+		<div id="nav">
+		<ul>
+		  <li><a {% if current_user.is_authenticated %}href="{{ url_for('account') }}"{% endif %}>Personal Information</a></li>
+		  <li><a {% if current_user.is_authenticated %}href="{{ url_for('reset') }}"{% endif %}>Orders Information</a></li>
+		</ul>
+		</div>
+	</div>
+	<!-- end of the navigation bar -->
+
+
+	<div class="col-sm-10" id="infor">
+        {% if current_user.is_authenticated %}
+            <!-- display the personal information-->
+            <div class="account-infor" id="content">
+                <center>
+                <div class="infor-list">
+                    <div id="profile" class="form-group">
+                        <img src="../static/image/pool.jpg" width="100px" height="100px">
+                    </div>
+                    <div class="description">
+                        <div class="col-sm-4" id="tags">
+                            <p>Name</p>
+                            <br>
+                            <p>Email</p>
+                            <br>
+                            <p>Phone Number</p>
+                        </div>
+                        <div class="col-sm-4">
+                            <p>{{ current_user.user_name }}</p>
+                            <br>
+                            <p>{{ current_user.email }}</p>
+                            <br>
+                            <p>{{ current_user.phone }}</p>
+                        </div>
+                        <div class="col-sm-4">
+                            <form action="{{ request.path }}" method="post">
+                            <p id="word-1"><a onclick="showInputBox('modi-1','word-1')">Modify</a></p>
+                            <div id="modi-1">
+                                <input name="modi-name" type="text"/>
+                                <button type="submit" onclick="closeBox('modi-1','word-1')">Change</button>
+                                <a onclick="closeBox('modi-1','word-1')">Cancle</a>
+                            </div>
+                            <br>
+                            <p id="word-2"><a onclick="showInputBox('modi-2','word-2')">Modify</a></p>
+                            <div id="modi-2">
+                                <input name="modi-email" type="text"/>
+                                <button type="submit" onclick="closeBox('modi-2','word-2')">Change</button>
+                                <a onclick="closeBox('modi-2','word-2')">Cancle</a>
+                            </div>
+                            <br>
+                            <p id="word-3"><a onclick="showInputBox('modi-3','word-3')">Modify</a></p>
+                            <div id="modi-3">
+                                <input name="modi-phone" type="text"/>
+                                <button type="submit" onclick="closeBox('modi-3','word-3')">Change</button>
+                                <a onclick="closeBox('modi-3','word-3')">Cancle</a>
+                            </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                </center>
+            </div>
+            <!-- end of the personal information -->
+        {% else %}
+            <div id="login-warn">
+                <p><a href="{{ url_for('index') }}">Please login first.</a></p>
+            </div>
+        {% endif %}
+	</div>
+{% endblock %}

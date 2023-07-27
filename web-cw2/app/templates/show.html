@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+{% block styles %}
+    {{ super() }}
+    <link rel="stylesheet" href="../static/css/account.css">
+{% endblock %}
+
+
+{% block page_content %}
+    <!-- display the navigation bar -->
+	<div class="col-sm-2">
+		<div id="nav">
+		<ul>
+		  <li><a href="{{ url_for('account') }}">Personal Information</a></li>
+		  <li><a href="{{ url_for('reset') }}">Orders Information</a></li>
+		</ul>
+		</div>
+	</div>
+	<!-- end of the navigation bar -->
+
+
+	<div class="col-sm-10" id="infor">
+        {% if current_user.is_authenticated %}
+		<!-- display order tabs -->
+		<div id="tabs">
+            <!-- display the orders search form -->
+            <center>
+            <div class="order-search">
+                <form class="form-inline" role="form" action="{{ request.path }}" method="post">
+                    <div class="form-group datepicker">
+                        <input type="text" id="datepicker_start" class="form-control" placeholder="Check in time" name="check-in" style="width: 150px;">
+                    </div>
+                    <div class="form-group datepicker">
+                        <input type="text" id="datepicker_end" class="form-control" placeholder="Check out time" name="check-out" style="width: 150px;">
+                    </div>
+                    <div class="form-group">
+                        <select class="form-control" name="complete">
+                          <option>All</option>
+                          <option>Complete</option>
+                          <option>Incomplete</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="btn btn-default">Select</button>
+                </form>
+            </div>
+            </center>
+            <!-- end of the orders search form -->
+                <div class="list">
+                {% if num!= 0 %}
+                    {% for i in range(0,num) %}
+                        <div class="order-list">
+                            <p class="order-hotel">{{ hotel_list[i] }}</p>
+                            <p class="order-price">¥{{ order_list[i].total }}</p>
+                            <p class="order-words">{{ address_list[i] }}</p>
+                            <p class="order-words">{{ order_list[i].start_time }} to {{ order_list[i].end_time }}    {{ type_list[i] }}</p>
+                            {% if order_list[i].complete == False %}
+                                <a href="/cancel/{{ order_list[i].order_id }}" style="color: #1E90FF;font-size: 10px;">Cancel</a>
+                            {% else %}
+                                <a href="/delete/{{ order_list[i].order_id }}" style="color: #1E90FF;font-size: 10px;">Delete</a>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                {% endif %}
+                </div>
+
+            <!--pagination-->
+            {% import "page.html" as page %}
+            <div class="pagination">
+                {{ page.pagination_widget(pagination,'show') }}
+            </div>
+            <!--end of the pagination-->
+		</div>
+        <!-- end of order tabs -->
+    {% else %}
+        <div id="login-warn">
+            <p><a href="{{ url_for('index') }}">Please login first.</a></p>
+        </div>
+    {% endif %}
+	</div>
+{% endblock %}

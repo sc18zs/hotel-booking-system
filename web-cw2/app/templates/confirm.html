@@ -1,0 +1,13 @@
+<p>Dear {{ order.name }}:</p>
+<p>This is a confirm e-mail</p>
+<br>
+<p>Thank you for using this reservation system!</p>
+<br>
+<p>Please check the information of the order made {{ order.set_time }}:</p>
+<p>Hotel: {{ hotel.hotel_name }}</p>
+<p>Room Type: {{ room.room_name }}</p>
+<p>Room Number: {{ order.quantity }}</p>
+<p>Check-in date: {{ order.start_time }}</p>
+<p>Check-out date: {{ order.end_time }}</p>
+<br>
+<p>Finally, hope you will have a nice trip!</p>

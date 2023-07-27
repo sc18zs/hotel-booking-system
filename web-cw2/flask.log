@@ -1,0 +1,821 @@
+2021-01-01 01:29:46,052 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 01:40:52,781 - INFO - views.py - logout - 47 - lynn failed log out
+2021-01-01 01:41:11,785 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 01:41:13,430 - INFO - views.py - logout - 47 - lynn failed log out
+2021-01-01 01:41:21,943 - INFO - views.py - index - 24 - add user cookie lynn
+2021-01-01 01:41:21,943 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 01:53:34,669 - ERROR - views.py - logout - 47 - lynn failed log out
+2021-01-01 01:53:34,669 - ERROR - views.py - logout - 53 - failed to delete cookies for lynn
+2021-01-01 01:53:39,037 - INFO - views.py - index - 29 - a failed to log in
+2021-01-01 01:54:38,020 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 01:55:00,451 - INFO - views.py - index - 24 - add cookies for lynn
+2021-01-01 01:55:00,451 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 01:55:03,615 - ERROR - views.py - logout - 47 - lynn failed log out
+2021-01-01 01:55:03,617 - ERROR - views.py - logout - 53 - failed to delete cookies for lynn
+2021-01-01 01:56:17,622 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 01:56:24,145 - ERROR - views.py - logout - 47 - lynn failed log out
+2021-01-01 01:56:24,146 - INFO - views.py - logout - 51 - delete cookies for lynn
+2021-01-01 01:58:19,103 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 01:58:26,302 - INFO - views.py - logout - 47 - lynn successfully log out
+2021-01-01 01:58:26,302 - INFO - views.py - logout - 51 - delete cookies for lynn
+2021-01-01 01:58:37,521 - INFO - views.py - index - 24 - add cookies for lynn
+2021-01-01 01:58:37,521 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 01:58:47,422 - INFO - views.py - logout - 47 - lynn successfully log out
+2021-01-01 01:58:47,423 - ERROR - views.py - logout - 53 - failed to delete cookies for lynn
+2021-01-01 02:00:06,787 - INFO - views.py - index - 24 - add cookies for lynn
+2021-01-01 02:00:06,788 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 02:00:17,454 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 02:00:17,454 - ERROR - views.py - logout - 53 - failed to delete cookies for lynn
+2021-01-01 02:08:11,762 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 02:08:11,763 - ERROR - views.py - logout - 53 - failed to delete cookies for lynn
+2021-01-01 02:11:47,894 - INFO - views.py - index - 29 - a failed to log in
+2021-01-01 02:12:04,141 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 02:12:07,785 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 11:34:11,143 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 11:34:50,644 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 11:34:56,544 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 11:36:09,308 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 11:36:18,053 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 11:37:00,045 - INFO - views.py - index - 24 - add cookies for lynn
+2021-01-01 11:37:00,045 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 11:37:13,473 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 11:37:19,759 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 13:46:58,061 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 14:02:49,962 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 15:31:47,871 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 15:33:03,379 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 15:33:44,298 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 15:33:50,129 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 15:35:01,878 - INFO - views.py - index - 24 - add cookies for lynn
+2021-01-01 15:35:01,879 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 16:18:42,151 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 16:50:29,074 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 16:56:25,272 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 19:03:03,176 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 19:03:07,852 - INFO - views.py - index - 26 - sc18zs log in successfully
+2021-01-01 19:04:23,184 - INFO - views.py - logout - 49 - sc18zs successfully log out
+2021-01-01 19:04:28,271 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 19:11:36,876 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 19:11:44,908 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 19:20:02,634 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 19:20:07,808 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 19:20:11,049 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 19:20:15,280 - INFO - views.py - index - 26 - sc18zs log in successfully
+2021-01-01 19:22:59,904 - INFO - views.py - logout - 49 - sc18zs successfully log out
+2021-01-01 19:23:04,979 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 19:25:07,320 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 19:25:12,049 - INFO - views.py - index - 26 - sc18zs log in successfully
+2021-01-01 19:27:55,712 - INFO - views.py - logout - 49 - sc18zs successfully log out
+2021-01-01 19:28:01,470 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 19:28:24,182 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 19:28:34,766 - INFO - views.py - index - 26 - sc18zs log in successfully
+2021-01-01 19:32:57,943 - INFO - views.py - index - 26 - sc18zs log in successfully
+2021-01-01 19:42:57,803 - INFO - views.py - logout - 49 - sc18zs successfully log out
+2021-01-01 19:43:04,190 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 19:49:25,480 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 19:49:30,800 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 19:49:34,316 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 19:49:38,008 - INFO - views.py - index - 26 - sc18zs log in successfully
+2021-01-01 19:49:43,991 - INFO - views.py - logout - 49 - sc18zs successfully log out
+2021-01-01 19:49:49,435 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 21:37:01,285 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 21:37:01,285 - INFO - views.py - logout - 53 - delete user cookies
+2021-01-01 21:37:19,407 - INFO - views.py - index - 24 - add cookies for lynn
+2021-01-01 21:37:19,408 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 21:37:21,106 - INFO - views.py - logout - 49 - lynn successfully log out
+2021-01-01 21:37:21,106 - WARNING - views.py - logout - 51 - failed to delete cookies
+2021-01-01 22:22:11,125 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 22:22:15,763 - DEBUG - views.py - hotelList - 87 - get the hotel name 
+2021-01-01 22:22:15,763 - DEBUG - views.py - hotelList - 89 - get the chech-in time 2021-01-01
+2021-01-01 22:22:15,764 - DEBUG - views.py - hotelList - 91 - get the check-out time 2021-01-02
+2021-01-01 22:22:15,784 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 花筑·成都清居酒店 is 31
+2021-01-01 22:22:15,785 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 成都丽思顿公寓式酒店 is 6
+2021-01-01 22:22:15,786 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 和颐酒店（上海浦东机场川沙店) is 10
+2021-01-01 22:22:30,729 - DEBUG - views.py - hotelList - 87 - get the hotel name 
+2021-01-01 22:22:30,730 - DEBUG - views.py - hotelList - 89 - get the chech-in time 2021-01-03
+2021-01-01 22:22:30,730 - DEBUG - views.py - hotelList - 91 - get the check-out time 2021-01-09
+2021-01-01 22:22:30,745 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 花筑·成都清居酒店 is 31
+2021-01-01 22:22:30,746 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 成都丽思顿公寓式酒店 is 6
+2021-01-01 22:22:30,747 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 和颐酒店（上海浦东机场川沙店) is 10
+2021-01-01 22:22:57,036 - DEBUG - views.py - hotelList - 87 - get the hotel name 
+2021-01-01 22:22:57,037 - DEBUG - views.py - hotelList - 89 - get the chech-in time 2021-01-15
+2021-01-01 22:22:57,037 - DEBUG - views.py - hotelList - 91 - get the check-out time 2021-01-16
+2021-01-01 22:22:57,055 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 花筑·成都清居酒店 is 36
+2021-01-01 22:22:57,058 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 成都丽思顿公寓式酒店 is 6
+2021-01-01 22:22:57,060 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 和颐酒店（上海浦东机场川沙店) is 10
+2021-01-01 22:23:21,840 - DEBUG - views.py - hotelList - 87 - get the hotel name 花筑
+2021-01-01 22:23:21,840 - DEBUG - views.py - hotelList - 89 - get the chech-in time 2021-01-01
+2021-01-01 22:23:21,841 - DEBUG - views.py - hotelList - 91 - get the check-out time 2021-01-02
+2021-01-01 22:23:21,854 - DEBUG - views.py - hotelList - 120 - The total number of available rooms in the hotel 花筑·成都清居酒店 is 31
+2021-01-01 22:34:56,263 - DEBUG - views.py - details - 146 - set check-in date session as 2021-01-01
+2021-01-01 22:34:56,263 - DEBUG - views.py - details - 148 - set check-out date session as 2021-01-02
+2021-01-01 22:34:56,281 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能投影观景房 is 1
+2021-01-01 22:34:56,282 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-01 22:34:56,284 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-01 22:34:56,286 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-01 22:34:56,288 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-01 22:34:56,290 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-01 22:34:56,292 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-01 22:36:09,823 - DEBUG - views.py - details - 146 - set check-in date session as 2021-01-03
+2021-01-01 22:36:09,823 - DEBUG - views.py - details - 148 - set check-out date session as 2021-01-09
+2021-01-01 22:36:09,839 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能投影观景房 is 1
+2021-01-01 22:36:09,841 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-01 22:36:09,842 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-01 22:36:09,844 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-01 22:36:09,846 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-01 22:36:09,847 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-01 22:36:09,849 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-01 22:36:19,614 - DEBUG - views.py - details - 146 - set check-in date session as 2021-01-15
+2021-01-01 22:36:19,615 - DEBUG - views.py - details - 148 - set check-out date session as 2021-01-16
+2021-01-01 22:36:19,631 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能投影观景房 is 6
+2021-01-01 22:36:19,633 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-01 22:36:19,635 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-01 22:36:19,638 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-01 22:36:19,640 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-01 22:36:19,641 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-01 22:36:19,644 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-01 22:47:39,322 - DEBUG - views.py - details - 146 - set check-in date session as 2021-01-01
+2021-01-01 22:47:39,323 - DEBUG - views.py - details - 148 - set check-out date session as 2021-01-02
+2021-01-01 22:47:39,350 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能投影观景房 is 1
+2021-01-01 22:47:39,352 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-01 22:47:39,354 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-01 22:47:39,356 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-01 22:47:39,358 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-01 22:47:39,360 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-01 22:47:39,362 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-01 22:47:50,074 - DEBUG - views.py - order - 254 - Associated with the correct number of rooms 1
+2021-01-01 22:47:50,079 - INFO - views.py - order - 262 - successfully insert a new order into database
+2021-01-01 22:48:16,288 - DEBUG - views.py - details - 146 - set check-in date session as 2021-01-01
+2021-01-01 22:48:16,288 - DEBUG - views.py - details - 148 - set check-out date session as 2021-01-02
+2021-01-01 22:48:16,310 - DEBUG - views.py - details - 186 - room 清居智能投影观景房 has no available room
+2021-01-01 22:48:16,313 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-01 22:48:16,315 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-01 22:48:16,317 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-01 22:48:16,319 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-01 22:48:16,321 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-01 22:48:16,323 - DEBUG - views.py - details - 189 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-01 23:04:04,774 - INFO - views.py - logout - 50 - lynn successfully log out
+2021-01-01 23:04:04,775 - INFO - views.py - logout - 54 - delete user cookies
+2021-01-01 23:05:05,141 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 23:05:35,811 - INFO - views.py - logout - 50 - lynn successfully log out
+2021-01-01 23:05:35,811 - INFO - views.py - logout - 54 - delete user cookies
+2021-01-01 23:08:36,061 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 23:08:57,950 - INFO - views.py - logout - 50 - lynn successfully log out
+2021-01-01 23:08:57,950 - INFO - views.py - logout - 54 - delete user cookies
+2021-01-01 23:10:48,906 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 23:10:50,462 - INFO - views.py - logout - 50 - lynn successfully log out
+2021-01-01 23:10:50,462 - INFO - views.py - logout - 54 - delete user cookies
+2021-01-01 23:11:14,300 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 23:11:15,597 - INFO - views.py - logout - 50 - lynn successfully log out
+2021-01-01 23:11:15,597 - INFO - views.py - logout - 54 - delete user cookies
+2021-01-01 23:22:30,270 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 23:22:39,754 - INFO - views.py - account - 291 - user Lynn personal information has been modified
+2021-01-01 23:22:45,459 - INFO - views.py - account - 291 - user lynn personal information has been modified
+2021-01-01 23:34:22,153 - DEBUG - views.py - reset - 301 - account session value has been reset
+2021-01-01 23:34:22,168 - INFO - views.py - show - 330 - 2 matched records
+2021-01-01 23:34:35,711 - INFO - views.py - show - 330 - 1 matched records
+2021-01-01 23:34:36,867 - INFO - views.py - show - 330 - 2 matched records
+2021-01-01 23:36:01,832 - DEBUG - views.py - reset - 301 - account session value has been reset
+2021-01-01 23:36:01,845 - INFO - views.py - show - 330 - 2 matched records in page 1
+2021-01-01 23:36:12,263 - INFO - views.py - show - 330 - 1 matched records in page 2
+2021-01-01 23:36:19,548 - DEBUG - views.py - show - 315 - set account sessions All, 2021-01-01, 2021-01-02
+2021-01-01 23:36:19,560 - INFO - views.py - show - 330 - 1 matched records in page 1
+2021-01-01 23:36:27,449 - DEBUG - views.py - show - 315 - set account sessions Complete, , 
+2021-01-01 23:36:27,456 - INFO - views.py - show - 330 - 2 matched records in page 1
+2021-01-01 23:36:47,675 - INFO - views.py - logout - 50 - lynn successfully log out
+2021-01-01 23:36:47,675 - INFO - views.py - logout - 54 - delete user cookies
+2021-01-01 23:37:00,701 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-01 23:37:04,116 - DEBUG - views.py - reset - 301 - account session value has been reset
+2021-01-01 23:37:04,126 - INFO - views.py - show - 330 - 2 matched records in page 1
+2021-01-01 23:37:10,202 - INFO - views.py - account - 291 - user lynn personal information has been modified
+2021-01-01 23:37:14,915 - INFO - views.py - logout - 50 - lynn successfully log out
+2021-01-01 23:37:14,915 - INFO - views.py - logout - 54 - delete user cookies
+2021-01-02 12:43:43,305 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-02 13:22:03,737 - INFO - views.py - logout - 50 - lynn successfully log out
+2021-01-02 13:22:03,738 - INFO - views.py - logout - 54 - delete user cookies
+2021-01-02 13:33:39,288 - INFO - views.py - register - 90 - admin successfully sign up
+2021-01-02 13:39:40,998 - INFO - views.py - logout - 65 - admin successfully log out
+2021-01-02 13:39:40,998 - INFO - views.py - logout - 69 - delete user cookies
+2021-01-02 13:39:54,759 - INFO - views.py - logout - 65 - admin successfully log out
+2021-01-02 13:39:54,760 - INFO - views.py - logout - 69 - delete user cookies
+2021-01-02 14:35:32,930 - INFO - views.py - passwordChange - 105 - lynn have successfully change the password
+2021-01-02 14:35:38,422 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-02 14:35:41,486 - INFO - views.py - logout - 65 - lynn successfully log out
+2021-01-02 14:35:41,487 - INFO - views.py - logout - 69 - delete user cookies
+2021-01-02 14:41:16,986 - INFO - views.py - passwordChange - 107 - lynn have successfully change the password
+2021-01-02 14:41:29,291 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-02 14:41:37,429 - INFO - views.py - logout - 65 - lynn successfully log out
+2021-01-02 14:41:37,429 - INFO - views.py - logout - 69 - delete user cookies
+2021-01-02 14:43:15,384 - INFO - views.py - passwordChange - 107 - lynn have successfully change the password
+2021-01-02 14:43:21,164 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-02 14:43:22,281 - INFO - views.py - logout - 65 - lynn successfully log out
+2021-01-02 14:43:22,281 - INFO - views.py - logout - 69 - delete user cookies
+2021-01-02 14:43:33,394 - INFO - views.py - passwordChange - 107 - lynn have successfully change the password
+2021-01-02 14:43:38,704 - INFO - views.py - index - 26 - lynn log in successfully
+2021-01-02 15:34:22,854 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 15:34:22,855 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 15:34:22,860 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 15:34:22,862 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 15:34:22,864 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 15:34:22,865 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 15:34:22,866 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 15:34:22,868 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 15:34:55,151 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 15:34:55,156 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 15:36:39,560 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 15:36:39,565 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 15:38:57,417 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 15:38:57,422 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 15:40:43,046 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 15:40:43,053 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 15:41:02,959 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 15:41:02,966 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 15:42:49,468 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 15:42:49,475 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 15:44:51,941 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 15:44:51,946 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 15:46:52,823 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 15:46:52,830 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 15:48:09,614 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 15:48:09,621 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 15:59:33,230 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 15:59:33,231 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 15:59:33,242 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 15:59:33,243 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 15:59:33,245 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 15:59:33,246 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 15:59:33,249 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 15:59:33,250 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 15:59:54,984 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 15:59:54,985 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 15:59:54,992 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 15:59:54,994 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 15:59:54,997 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 15:59:54,998 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 15:59:54,999 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 15:59:54,999 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:00:00,593 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:00:00,594 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 16:00:00,601 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:00:00,603 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:00:00,604 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:00:00,606 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:00:00,607 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:00:00,608 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:00:05,833 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-03
+2021-01-02 16:00:05,833 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-09
+2021-01-02 16:00:05,839 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:00:05,841 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:00:05,842 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:00:05,844 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:00:05,845 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:00:05,846 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:00:14,083 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-01
+2021-01-02 16:00:14,083 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 16:00:14,094 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:00:14,095 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:00:14,096 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:00:14,097 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:00:14,099 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:00:14,100 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:00:24,985 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:00:24,991 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:00:58,616 - ERROR - views.py - order - 270 - Shortage of rooms
+2021-01-02 16:00:58,697 - DEBUG - views.py - order - 293 - Associated with the incorrect number of rooms 0
+2021-01-02 16:00:58,705 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:01:49,451 - ERROR - views.py - order - 270 - Shortage of rooms
+2021-01-02 16:01:49,532 - DEBUG - views.py - order - 293 - Associated with the incorrect number of rooms 0
+2021-01-02 16:01:49,541 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:03:53,651 - ERROR - views.py - order - 270 - Shortage of rooms
+2021-01-02 16:03:53,735 - DEBUG - views.py - order - 293 - Associated with the incorrect number of rooms 0
+2021-01-02 16:03:53,743 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:04:09,838 - ERROR - views.py - order - 270 - Shortage of rooms
+2021-01-02 16:04:09,919 - DEBUG - views.py - order - 293 - Associated with the incorrect number of rooms 0
+2021-01-02 16:04:09,928 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:05:38,959 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:05:38,972 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:06:05,362 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:06:08,605 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:06:11,075 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:06:11,085 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:09:38,468 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:09:38,490 - INFO - views.py - show - 367 - 2 matched records in page 12021-01-02 16:12:00,963 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:12:00,964 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 16:12:00,967 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:12:00,968 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:12:00,970 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:12:00,971 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:12:00,973 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:12:00,974 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:12:11,968 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:12:11,975 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:13:51,666 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:13:51,666 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 16:13:51,678 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:13:51,680 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:13:51,681 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:13:51,682 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:13:51,683 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:13:51,685 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:13:52,976 - DEBUG - views.py - details - 183 - set check-in date session as 
+2021-01-02 16:13:52,976 - DEBUG - views.py - details - 185 - set check-out date session as 
+2021-01-02 16:13:59,248 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:13:59,248 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 16:13:59,254 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:13:59,255 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:13:59,256 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:13:59,257 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:13:59,258 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:13:59,259 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:14:13,204 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-01
+2021-01-02 16:14:13,204 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 16:14:13,209 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:14:13,211 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:14:13,212 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:14:13,213 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:14:13,215 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:14:13,218 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:14:14,719 - DEBUG - views.py - details - 183 - set check-in date session as 
+2021-01-02 16:14:14,719 - DEBUG - views.py - details - 185 - set check-out date session as 
+2021-01-02 16:14:19,467 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-03
+2021-01-02 16:14:19,467 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-09
+2021-01-02 16:14:19,473 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:14:19,475 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:14:19,476 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:14:19,477 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:14:19,479 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:14:19,482 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:14:25,886 - INFO - views.py - logout - 68 - admin successfully log out
+2021-01-02 16:14:25,886 - INFO - views.py - logout - 72 - delete user cookies
+2021-01-02 16:14:37,746 - INFO - views.py - index - 28 - lynn log in successfully
+2021-01-02 16:14:55,317 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-01
+2021-01-02 16:14:55,317 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 16:14:55,323 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:14:55,324 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:14:55,326 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:14:55,327 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:14:55,328 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:14:55,330 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:15:47,092 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:15:47,102 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:16:10,043 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:16:10,053 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:16:12,126 - INFO - views.py - show - 367 - 2 matched records in page 2
+2021-01-02 16:16:13,843 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:17:53,557 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:17:53,557 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 16:17:53,567 - DEBUG - views.py - details - 223 - room 北欧夜景房 has no available room
+2021-01-02 16:17:53,568 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:17:53,569 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:17:53,571 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:17:53,572 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:17:53,573 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:18:30,693 - DEBUG - views.py - details - 183 - set check-in date session as 
+2021-01-02 16:18:30,694 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-03
+2021-01-02 16:18:38,694 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:18:38,695 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-03
+2021-01-02 16:18:38,703 - DEBUG - views.py - details - 223 - room 北欧夜景房 has no available room
+2021-01-02 16:18:38,703 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:18:38,704 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:18:38,705 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:18:38,706 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:18:38,706 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:19:22,925 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:19:22,938 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:19:24,232 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:19:24,244 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:20:53,267 - INFO - views.py - cancel - 414 - lynn cancel the order 5
+2021-01-02 16:20:53,271 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:20:53,280 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:21:19,381 - INFO - views.py - logout - 68 - lynn successfully log out
+2021-01-02 16:21:19,381 - INFO - views.py - logout - 72 - delete user cookies
+2021-01-02 16:21:32,383 - INFO - views.py - index - 28 - lynn log in successfully
+2021-01-02 16:21:39,573 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:21:39,588 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:22:27,934 - INFO - views.py - delete - 402 - lynn delete the order 7 record
+2021-01-02 16:22:27,939 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:22:27,955 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:22:29,417 - INFO - views.py - delete - 402 - lynn delete the order 5 record
+2021-01-02 16:22:29,422 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:22:29,435 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:22:40,708 - DEBUG - views.py - show - 352 - set account sessions Complete, , 
+2021-01-02 16:22:40,715 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:24:01,037 - INFO - views.py - logout - 68 - lynn successfully log out
+2021-01-02 16:24:01,037 - INFO - views.py - logout - 72 - delete user cookies
+2021-01-02 16:31:26,937 - INFO - views.py - index - 28 - lynn log in successfully
+2021-01-02 16:31:33,884 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:31:33,885 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-02
+2021-01-02 16:31:33,888 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐双床房 is 1
+2021-01-02 16:31:33,890 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐商务房 is 1
+2021-01-02 16:31:33,892 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐大床房 is 1
+2021-01-02 16:31:33,894 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐景观双床房 is 1
+2021-01-02 16:31:33,897 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐豪华大床房 is 1
+2021-01-02 16:31:33,898 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 漫趣亲子双床房 is 1
+2021-01-02 16:31:33,899 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 漫趣亲子大床房 is 2
+2021-01-02 16:31:33,901 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 雅致双床房 is 1
+2021-01-02 16:31:33,902 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 雅致大床房 is 1
+2021-01-02 16:31:41,084 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:31:41,085 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-03
+2021-01-02 16:31:41,089 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐双床房 is 1
+2021-01-02 16:31:41,091 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐商务房 is 1
+2021-01-02 16:31:41,093 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐大床房 is 1
+2021-01-02 16:31:41,095 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐景观双床房 is 1
+2021-01-02 16:31:41,096 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐豪华大床房 is 1
+2021-01-02 16:31:41,097 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 漫趣亲子双床房 is 1
+2021-01-02 16:31:41,099 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 漫趣亲子大床房 is 2
+2021-01-02 16:31:41,100 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 雅致双床房 is 1
+2021-01-02 16:31:41,101 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 雅致大床房 is 1
+2021-01-02 16:34:15,130 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:34:15,137 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:35:04,539 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:35:04,539 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-03
+2021-01-02 16:35:04,546 - DEBUG - views.py - details - 223 - room 和颐双床房 has no available room
+2021-01-02 16:35:04,548 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐商务房 is 1
+2021-01-02 16:35:04,549 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐大床房 is 1
+2021-01-02 16:35:04,550 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐景观双床房 is 1
+2021-01-02 16:35:04,551 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐豪华大床房 is 1
+2021-01-02 16:35:04,552 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 漫趣亲子双床房 is 1
+2021-01-02 16:35:04,553 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 漫趣亲子大床房 is 2
+2021-01-02 16:35:04,553 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 雅致双床房 is 1
+2021-01-02 16:35:04,554 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 雅致大床房 is 1
+2021-01-02 16:35:38,213 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:35:38,226 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:35:40,794 - INFO - views.py - cancel - 416 - lynn cancel the order 5
+2021-01-02 16:35:40,798 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:35:40,810 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:36:06,174 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:36:06,174 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-03
+2021-01-02 16:36:06,178 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐双床房 is 1
+2021-01-02 16:36:06,180 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐商务房 is 1
+2021-01-02 16:36:06,181 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐大床房 is 1
+2021-01-02 16:36:06,182 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐景观双床房 is 1
+2021-01-02 16:36:06,183 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和颐豪华大床房 is 1
+2021-01-02 16:36:06,184 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 漫趣亲子双床房 is 1
+2021-01-02 16:36:06,185 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 漫趣亲子大床房 is 2
+2021-01-02 16:36:06,186 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 雅致双床房 is 1
+2021-01-02 16:36:06,186 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 雅致大床房 is 1
+2021-01-02 16:39:04,013 - INFO - views.py - index - 28 - lynn log in successfully
+2021-01-02 16:39:06,992 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:39:07,004 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:39:08,164 - INFO - views.py - delete - 402 - lynn delete the order 5 record
+2021-01-02 16:39:08,171 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:39:08,186 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:39:08,710 - INFO - views.py - delete - 402 - lynn delete the order 4 record
+2021-01-02 16:39:08,716 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:39:08,727 - INFO - views.py - show - 367 - 1 matched records in page 1
+2021-01-02 16:39:09,152 - INFO - views.py - delete - 402 - lynn delete the order 3 record
+2021-01-02 16:39:09,157 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:39:09,173 - INFO - views.py - show - 375 - no matched records
+2021-01-02 16:39:10,750 - INFO - views.py - logout - 68 - lynn successfully log out
+2021-01-02 16:39:10,751 - INFO - views.py - logout - 72 - delete user cookies
+2021-01-02 16:39:14,926 - INFO - views.py - index - 28 - sc18zs log in successfully
+2021-01-02 16:39:17,640 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:39:17,652 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:39:18,657 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:39:18,669 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:39:19,115 - INFO - views.py - delete - 402 - sc18zs delete the order 2 record
+2021-01-02 16:39:19,120 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:39:19,132 - INFO - views.py - show - 367 - 1 matched records in page 1
+2021-01-02 16:39:19,660 - INFO - views.py - cancel - 416 - sc18zs cancel the order 1
+2021-01-02 16:39:19,669 - INFO - views.py - cancel - 416 - sc18zs cancel the order 1
+2021-01-02 16:39:19,679 - INFO - views.py - cancel - 416 - sc18zs cancel the order 1
+2021-01-02 16:39:19,688 - INFO - views.py - cancel - 416 - sc18zs cancel the order 1
+2021-01-02 16:39:19,697 - INFO - views.py - cancel - 416 - sc18zs cancel the order 1
+2021-01-02 16:39:19,700 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:39:19,711 - INFO - views.py - show - 367 - 1 matched records in page 1
+2021-01-02 16:39:20,038 - INFO - views.py - delete - 402 - sc18zs delete the order 1 record
+2021-01-02 16:39:20,043 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:39:20,054 - INFO - views.py - show - 375 - no matched records
+2021-01-02 16:39:21,088 - INFO - views.py - logout - 68 - sc18zs successfully log out
+2021-01-02 16:39:21,089 - INFO - views.py - logout - 72 - delete user cookies
+2021-01-02 16:40:14,702 - INFO - views.py - index - 28 - lynn log in successfully
+2021-01-02 16:40:25,331 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:40:25,332 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-03
+2021-01-02 16:40:25,336 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能投影观景房 is 6
+2021-01-02 16:40:25,337 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-02 16:40:25,338 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-02 16:40:25,339 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-02 16:40:25,340 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-02 16:40:25,341 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-02 16:40:25,342 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-02 16:40:39,922 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 3
+2021-01-02 16:40:39,929 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:40:52,963 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:40:52,963 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-03
+2021-01-02 16:40:52,974 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能投影观景房 is 3
+2021-01-02 16:40:52,974 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-02 16:40:52,975 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-02 16:40:52,976 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-02 16:40:52,977 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-02 16:40:52,978 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-02 16:40:52,979 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-02 16:41:11,340 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 3
+2021-01-02 16:41:11,347 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:41:20,214 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-02
+2021-01-02 16:41:20,214 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-03
+2021-01-02 16:41:20,229 - DEBUG - views.py - details - 223 - room 清居智能投影观景房 has no available room
+2021-01-02 16:41:20,230 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-02 16:41:20,232 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-02 16:41:20,233 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-02 16:41:20,235 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-02 16:41:20,236 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-02 16:41:20,237 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-02 16:41:31,486 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-08
+2021-01-02 16:41:31,487 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-09
+2021-01-02 16:41:31,492 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 北欧夜景房 is 1
+2021-01-02 16:41:31,493 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:41:31,495 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:41:31,496 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:41:31,497 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:41:31,498 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:41:40,696 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:41:40,701 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:41:50,402 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-08
+2021-01-02 16:41:50,403 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-09
+2021-01-02 16:41:50,411 - DEBUG - views.py - details - 223 - room 北欧夜景房 has no available room
+2021-01-02 16:41:50,413 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 和风舒适夜景房 is 1
+2021-01-02 16:41:50,415 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:41:50,416 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:41:50,417 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:41:50,419 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:41:58,799 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:41:58,806 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:42:07,584 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-08
+2021-01-02 16:42:07,585 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-09
+2021-01-02 16:42:07,591 - DEBUG - views.py - details - 223 - room 北欧夜景房 has no available room
+2021-01-02 16:42:07,594 - DEBUG - views.py - details - 223 - room 和风舒适夜景房 has no available room
+2021-01-02 16:42:07,596 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 商务双床房 is 1
+2021-01-02 16:42:07,597 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:42:07,598 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:42:07,599 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:42:18,240 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:42:18,247 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:42:29,485 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-08
+2021-01-02 16:42:29,485 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-09
+2021-01-02 16:42:29,497 - DEBUG - views.py - details - 223 - room 北欧夜景房 has no available room
+2021-01-02 16:42:29,500 - DEBUG - views.py - details - 223 - room 和风舒适夜景房 has no available room
+2021-01-02 16:42:29,504 - DEBUG - views.py - details - 223 - room 商务双床房 has no available room
+2021-01-02 16:42:29,505 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 浪漫北欧大床房 is 1
+2021-01-02 16:42:29,506 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:42:29,507 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:42:37,509 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:42:37,516 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:42:46,235 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-08
+2021-01-02 16:42:46,236 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-09
+2021-01-02 16:42:46,242 - DEBUG - views.py - details - 223 - room 北欧夜景房 has no available room
+2021-01-02 16:42:46,246 - DEBUG - views.py - details - 223 - room 和风舒适夜景房 has no available room
+2021-01-02 16:42:46,250 - DEBUG - views.py - details - 223 - room 商务双床房 has no available room
+2021-01-02 16:42:46,254 - DEBUG - views.py - details - 223 - room 浪漫北欧大床房 has no available room
+2021-01-02 16:42:46,254 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:42:46,255 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:42:54,224 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:42:54,231 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:43:06,559 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-08
+2021-01-02 16:43:06,560 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-09
+2021-01-02 16:43:06,566 - DEBUG - views.py - details - 223 - room 北欧夜景房 has no available room
+2021-01-02 16:43:06,569 - DEBUG - views.py - details - 223 - room 和风舒适夜景房 has no available room
+2021-01-02 16:43:06,574 - DEBUG - views.py - details - 223 - room 商务双床房 has no available room
+2021-01-02 16:43:06,577 - DEBUG - views.py - details - 223 - room 浪漫北欧大床房 has no available room
+2021-01-02 16:43:06,580 - DEBUG - views.py - details - 223 - room 精品江景房 has no available room
+2021-01-02 16:43:06,580 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:43:16,098 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-02 16:43:16,105 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 16:43:42,089 - DEBUG - views.py - hotelList - 124 - get the hotel name 
+2021-01-02 16:43:42,090 - DEBUG - views.py - hotelList - 126 - get the chech-in time 2021-01-08
+2021-01-02 16:43:42,090 - DEBUG - views.py - hotelList - 128 - get the check-out time 2021-01-09
+2021-01-02 16:43:42,101 - DEBUG - views.py - hotelList - 157 - Search results: the total number of available rooms in the hotel 花筑·成都清居酒店 is 36
+2021-01-02 16:43:42,112 - DEBUG - views.py - hotelList - 157 - Search results: the total number of available rooms in the hotel 成都丽思顿公寓式酒店 is 0
+2021-01-02 16:43:46,063 - DEBUG - views.py - hotelList - 124 - get the hotel name 
+2021-01-02 16:43:46,063 - DEBUG - views.py - hotelList - 126 - get the chech-in time 2021-01-08
+2021-01-02 16:43:46,063 - DEBUG - views.py - hotelList - 128 - get the check-out time 2021-01-09
+2021-01-02 16:43:46,074 - DEBUG - views.py - hotelList - 157 - Search results: the total number of available rooms in the hotel 花筑·成都清居酒店 is 36
+2021-01-02 16:43:46,084 - DEBUG - views.py - hotelList - 157 - Search results: the total number of available rooms in the hotel 成都丽思顿公寓式酒店 is 0
+2021-01-02 16:43:54,475 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:43:54,489 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:43:56,149 - INFO - views.py - cancel - 416 - lynn cancel the order 8
+2021-01-02 16:43:56,154 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:43:56,165 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:43:56,760 - INFO - views.py - delete - 402 - lynn delete the order 8 record
+2021-01-02 16:43:56,766 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:43:56,780 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:43:58,442 - INFO - views.py - cancel - 416 - lynn cancel the order 7
+2021-01-02 16:43:58,447 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 16:43:58,459 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 16:44:04,218 - DEBUG - views.py - hotelList - 124 - get the hotel name 
+2021-01-02 16:44:04,218 - DEBUG - views.py - hotelList - 126 - get the chech-in time 2021-01-08
+2021-01-02 16:44:04,219 - DEBUG - views.py - hotelList - 128 - get the check-out time 2021-01-09
+2021-01-02 16:44:04,230 - DEBUG - views.py - hotelList - 157 - Search results: the total number of available rooms in the hotel 花筑·成都清居酒店 is 36
+2021-01-02 16:44:04,236 - DEBUG - views.py - hotelList - 157 - Search results: the total number of available rooms in the hotel 成都丽思顿公寓式酒店 is 2
+2021-01-02 16:44:04,237 - DEBUG - views.py - hotelList - 157 - Search results: the total number of available rooms in the hotel 和颐酒店（上海浦东机场川沙店) is 10
+2021-01-02 16:44:11,108 - DEBUG - views.py - details - 183 - set check-in date session as 2021-01-08
+2021-01-02 16:44:11,108 - DEBUG - views.py - details - 185 - set check-out date session as 2021-01-09
+2021-01-02 16:44:11,116 - DEBUG - views.py - details - 223 - room 北欧夜景房 has no available room
+2021-01-02 16:44:11,119 - DEBUG - views.py - details - 223 - room 和风舒适夜景房 has no available room
+2021-01-02 16:44:11,122 - DEBUG - views.py - details - 223 - room 商务双床房 has no available room
+2021-01-02 16:44:11,124 - DEBUG - views.py - details - 223 - room 浪漫北欧大床房 has no available room
+2021-01-02 16:44:11,125 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 精品江景房 is 1
+2021-01-02 16:44:11,126 - DEBUG - views.py - details - 226 - Search results: the total number of available rooms 轻奢江景房 is 1
+2021-01-02 16:45:14,767 - INFO - views.py - logout - 68 - lynn successfully log out
+2021-01-02 16:45:14,767 - INFO - views.py - logout - 72 - delete user cookies
+2021-01-02 21:15:29,059 - INFO - views.py - index - 28 - lynn log in successfully
+2021-01-02 21:16:07,200 - INFO - views.py - logout - 69 - lynn successfully log out
+2021-01-02 21:16:07,200 - INFO - views.py - logout - 73 - delete user cookies
+2021-01-02 21:16:12,836 - INFO - views.py - index - 29 - lynn log in successfully
+2021-01-02 21:20:48,274 - INFO - views.py - logout - 69 - lynn successfully log out
+2021-01-02 21:20:48,275 - INFO - views.py - logout - 73 - delete user cookies
+2021-01-02 21:44:37,276 - INFO - views.py - index - 29 - lynn log in successfully
+2021-01-02 21:44:43,435 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:44:43,449 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:44:45,724 - INFO - views.py - show - 367 - 2 matched records in page 2
+2021-01-02 21:44:46,212 - INFO - views.py - show - 367 - 2 matched records in page 3
+2021-01-02 21:44:46,433 - INFO - views.py - show - 367 - 1 matched records in page 4
+2021-01-02 21:44:47,729 - INFO - views.py - show - 367 - 2 matched records in page 3
+2021-01-02 21:44:48,744 - INFO - views.py - show - 367 - 2 matched records in page 2
+2021-01-02 21:44:49,109 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:45:30,459 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:45:30,470 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:23,192 - INFO - views.py - delete - 402 - lynn delete the order 7 record
+2021-01-02 21:47:23,196 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:23,207 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:23,997 - INFO - views.py - cancel - 416 - lynn cancel the order 6
+2021-01-02 21:47:24,003 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:24,018 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:24,513 - INFO - views.py - delete - 402 - lynn delete the order 6 record
+2021-01-02 21:47:24,519 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:24,534 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:24,831 - INFO - views.py - cancel - 416 - lynn cancel the order 5
+2021-01-02 21:47:24,835 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:24,850 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:25,093 - INFO - views.py - delete - 402 - lynn delete the order 5 record
+2021-01-02 21:47:25,097 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:25,108 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:25,344 - INFO - views.py - cancel - 416 - lynn cancel the order 4
+2021-01-02 21:47:25,348 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:25,359 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:25,562 - INFO - views.py - delete - 402 - lynn delete the order 4 record
+2021-01-02 21:47:25,567 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:25,579 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:25,767 - INFO - views.py - cancel - 416 - lynn cancel the order 3
+2021-01-02 21:47:25,770 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:25,780 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:25,950 - INFO - views.py - delete - 402 - lynn delete the order 3 record
+2021-01-02 21:47:25,954 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:25,964 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:26,309 - INFO - views.py - cancel - 416 - lynn cancel the order 2
+2021-01-02 21:47:26,318 - INFO - views.py - cancel - 416 - lynn cancel the order 2
+2021-01-02 21:47:26,329 - INFO - views.py - cancel - 416 - lynn cancel the order 2
+2021-01-02 21:47:26,332 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:26,342 - INFO - views.py - show - 367 - 2 matched records in page 1
+2021-01-02 21:47:26,492 - INFO - views.py - delete - 402 - lynn delete the order 2 record
+2021-01-02 21:47:26,496 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:26,508 - INFO - views.py - show - 367 - 1 matched records in page 1
+2021-01-02 21:47:26,701 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 21:47:26,715 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 21:47:26,729 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 21:47:26,734 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:26,749 - INFO - views.py - show - 367 - 1 matched records in page 1
+2021-01-02 21:47:27,339 - INFO - views.py - delete - 402 - lynn delete the order 1 record
+2021-01-02 21:47:27,344 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 21:47:27,357 - INFO - views.py - show - 375 - no matched records
+2021-01-02 21:47:33,016 - INFO - views.py - logout - 69 - lynn successfully log out
+2021-01-02 21:47:33,017 - INFO - views.py - logout - 73 - delete user cookies
+2021-01-02 22:58:36,811 - INFO - views.py - index - 29 - lynn log in successfully
+2021-01-02 22:58:53,817 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 22:58:53,834 - INFO - views.py - show - 375 - no matched records
+2021-01-02 23:18:16,855 - INFO - views.py - index - 29 - lynn log in successfully
+2021-01-02 23:18:22,850 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 23:18:22,868 - INFO - views.py - show - 375 - no matched records
+2021-01-02 23:18:29,953 - INFO - views.py - logout - 69 - lynn successfully log out
+2021-01-02 23:18:29,953 - INFO - views.py - logout - 73 - delete user cookies
+2021-01-02 23:19:25,709 - INFO - views.py - index - 29 - lynn log in successfully
+2021-01-02 23:19:32,767 - DEBUG - views.py - hotelList - 125 - get the hotel name 
+2021-01-02 23:19:32,768 - DEBUG - views.py - hotelList - 127 - get the chech-in time 2021-01-02
+2021-01-02 23:19:32,768 - DEBUG - views.py - hotelList - 129 - get the check-out time 2021-01-02
+2021-01-02 23:19:32,773 - DEBUG - views.py - hotelList - 158 - Search results: the total number of available rooms in the hotel 花筑·成都清居酒店 is 36
+2021-01-02 23:19:32,774 - DEBUG - views.py - hotelList - 158 - Search results: the total number of available rooms in the hotel 成都丽思顿公寓式酒店 is 6
+2021-01-02 23:19:32,775 - DEBUG - views.py - hotelList - 158 - Search results: the total number of available rooms in the hotel 和颐酒店（上海浦东机场川沙店) is 10
+2021-01-02 23:19:42,124 - DEBUG - views.py - details - 184 - set check-in date session as 2021-01-08
+2021-01-02 23:19:42,125 - DEBUG - views.py - details - 186 - set check-out date session as 2021-01-09
+2021-01-02 23:19:42,132 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能投影观景房 is 6
+2021-01-02 23:19:42,134 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-02 23:19:42,136 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-02 23:19:42,137 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-02 23:19:42,138 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-02 23:19:42,139 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-02 23:19:42,140 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-02 23:19:58,686 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 3
+2021-01-02 23:19:58,692 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 23:20:06,928 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 23:20:06,937 - INFO - views.py - show - 367 - 1 matched records in page 1
+2021-01-02 23:20:08,798 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 23:20:08,809 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 23:20:08,817 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 23:20:08,821 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 23:20:08,829 - INFO - views.py - show - 367 - 1 matched records in page 1
+2021-01-02 23:20:09,745 - INFO - views.py - delete - 402 - lynn delete the order 1 record
+2021-01-02 23:20:09,751 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 23:20:09,765 - INFO - views.py - show - 375 - no matched records
+2021-01-02 23:21:07,930 - DEBUG - views.py - details - 184 - set check-in date session as 2021-01-08
+2021-01-02 23:21:07,931 - DEBUG - views.py - details - 186 - set check-out date session as 2021-01-09
+2021-01-02 23:21:07,935 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能投影观景房 is 6
+2021-01-02 23:21:07,936 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-02 23:21:07,936 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-02 23:21:07,937 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-02 23:21:07,938 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-02 23:21:07,939 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-02 23:21:07,940 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-02 23:21:20,301 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 5
+2021-01-02 23:21:20,309 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-02 23:21:53,069 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 23:21:53,081 - INFO - views.py - show - 367 - 1 matched records in page 1
+2021-01-02 23:21:57,509 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 23:21:57,518 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 23:21:57,527 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 23:21:57,534 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 23:21:57,543 - INFO - views.py - cancel - 416 - lynn cancel the order 1
+2021-01-02 23:21:57,547 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 23:21:57,555 - INFO - views.py - show - 367 - 1 matched records in page 1
+2021-01-02 23:21:58,233 - INFO - views.py - delete - 402 - lynn delete the order 1 record
+2021-01-02 23:21:58,239 - DEBUG - views.py - reset - 338 - account session value has been reset
+2021-01-02 23:21:58,254 - INFO - views.py - show - 375 - no matched records
+2021-01-02 23:22:04,443 - INFO - views.py - logout - 69 - lynn successfully log out
+2021-01-02 23:22:04,443 - INFO - views.py - logout - 73 - delete user cookies
+2021-01-02 23:22:11,821 - INFO - views.py - adminLogin - 46 - successfully log into the management system
+2021-01-02 23:22:17,050 - INFO - views.py - logout - 69 - admin successfully log out
+2021-01-02 23:22:17,050 - INFO - views.py - logout - 73 - delete user cookies
+2021-01-02 23:23:02,359 - INFO - views.py - index - 29 - lynn log in successfully
+2021-01-02 23:23:10,829 - DEBUG - views.py - details - 184 - set check-in date session as 2021-01-08
+2021-01-02 23:23:10,829 - DEBUG - views.py - details - 186 - set check-out date session as 2021-01-09
+2021-01-02 23:23:10,833 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能投影观景房 is 6
+2021-01-02 23:23:10,835 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-02 23:23:10,836 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-02 23:23:10,838 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-02 23:23:10,839 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-02 23:23:10,840 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-02 23:23:10,841 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-02 23:24:55,566 - DEBUG - views.py - details - 184 - set check-in date session as 2021-01-08
+2021-01-02 23:24:55,567 - DEBUG - views.py - details - 186 - set check-out date session as 2021-01-09
+2021-01-02 23:24:55,570 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能投影观景房 is 6
+2021-01-02 23:24:55,571 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-02 23:24:55,572 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-02 23:24:55,573 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-02 23:24:55,575 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-02 23:24:55,577 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-02 23:24:55,579 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-02 23:25:05,889 - DEBUG - views.py - order - 290 - Associated with the correct number of rooms 1
+2021-01-02 23:25:05,894 - INFO - views.py - order - 298 - successfully insert a new order into database
+2021-01-02 23:25:21,727 - DEBUG - views.py - reset - 337 - account session value has been reset
+2021-01-02 23:25:21,736 - INFO - views.py - show - 366 - 1 matched records in page 1
+2021-01-02 23:25:23,225 - INFO - views.py - cancel - 415 - lynn cancel the order 1
+2021-01-02 23:25:23,230 - DEBUG - views.py - reset - 337 - account session value has been reset
+2021-01-02 23:25:23,241 - INFO - views.py - show - 366 - 1 matched records in page 1
+2021-01-02 23:25:23,843 - INFO - views.py - delete - 401 - lynn delete the order 1 record
+2021-01-02 23:25:23,849 - DEBUG - views.py - reset - 337 - account session value has been reset
+2021-01-02 23:25:23,862 - INFO - views.py - show - 374 - no matched records
+2021-01-02 23:31:38,922 - INFO - views.py - logout - 69 - lynn successfully log out
+2021-01-02 23:31:38,922 - INFO - views.py - logout - 73 - delete user cookies
+2021-01-03 02:04:31,906 - INFO - views.py - index - 29 - lynn log in successfully
+2021-01-03 02:04:39,293 - DEBUG - views.py - details - 184 - set check-in date session as 2021-01-08
+2021-01-03 02:04:39,293 - DEBUG - views.py - details - 186 - set check-out date session as 2021-01-09
+2021-01-03 02:04:39,297 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能投影观景房 is 6
+2021-01-03 02:04:39,298 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-03 02:04:39,301 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-03 02:04:39,302 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-03 02:04:39,303 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-03 02:04:39,304 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-03 02:04:39,305 - DEBUG - views.py - details - 227 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-03 02:04:48,640 - DEBUG - views.py - order - 290 - Associated with the correct number of rooms 1
+2021-01-03 02:04:48,648 - INFO - views.py - order - 298 - successfully insert a new order into database
+2021-01-03 03:29:46,436 - INFO - views.py - index - 30 - lynn log in successfully
+2021-01-03 03:29:53,069 - DEBUG - views.py - details - 185 - set check-in date session as 2021-01-08
+2021-01-03 03:29:53,069 - DEBUG - views.py - details - 187 - set check-out date session as 2021-01-09
+2021-01-03 03:29:53,080 - DEBUG - views.py - details - 228 - Search results: the total number of available rooms 清居智能投影观景房 is 5
+2021-01-03 03:29:53,081 - DEBUG - views.py - details - 228 - Search results: the total number of available rooms 清居智能景观双床房 is 5
+2021-01-03 03:29:53,082 - DEBUG - views.py - details - 228 - Search results: the total number of available rooms 清居智能景观大床房 is 5
+2021-01-03 03:29:53,083 - DEBUG - views.py - details - 228 - Search results: the total number of available rooms 清居智能景观家庭房 is 5
+2021-01-03 03:29:53,084 - DEBUG - views.py - details - 228 - Search results: the total number of available rooms 花筑温馨家庭房 is 5
+2021-01-03 03:29:53,085 - DEBUG - views.py - details - 228 - Search results: the total number of available rooms 花筑玄关大床房 is 5
+2021-01-03 03:29:53,086 - DEBUG - views.py - details - 228 - Search results: the total number of available rooms 花筑禅意双床房 is 5
+2021-01-03 03:30:02,413 - DEBUG - views.py - order - 291 - Associated with the correct number of rooms 1
+2021-01-03 03:30:02,420 - INFO - views.py - order - 299 - successfully insert a new order into database
+2021-01-03 19:21:06,608 - INFO - views.py - index - 30 - lynn log in successfully
+2021-01-03 19:21:21,831 - INFO - views.py - account - 328 - user lynn personal information has been modified
+2021-01-03 19:21:50,870 - INFO - views.py - account - 328 - user lynn personal information has been modified
+2021-01-03 19:22:26,416 - INFO - views.py - logout - 70 - lynn successfully log out
+2021-01-03 19:22:26,417 - INFO - views.py - logout - 74 - delete user cookies
+2021-01-03 19:23:45,327 - INFO - views.py - index - 30 - lynn log in successfully
+2021-01-03 19:24:06,935 - DEBUG - views.py - hotelList - 126 - get the hotel name 
+2021-01-03 19:24:06,935 - DEBUG - views.py - hotelList - 128 - get the chech-in time 
+2021-01-03 19:24:06,936 - DEBUG - views.py - hotelList - 130 - get the check-out time 
+2021-01-03 21:40:51,712 - INFO - views.py - index - 30 - lynn log in successfully
+2021-01-03 21:41:05,252 - INFO - views.py - logout - 70 - lynn successfully log out
+2021-01-03 21:41:05,252 - INFO - views.py - logout - 74 - delete user cookies
+2021-01-03 22:16:22,155 - INFO - views.py - index - 30 - lynn log in successfully
+2021-01-03 22:17:02,107 - INFO - views.py - logout - 70 - lynn successfully log out
+2021-01-03 22:17:02,107 - INFO - views.py - logout - 74 - delete user cookies
+2021-01-03 22:20:03,776 - INFO - views.py - index - 30 - lynn log in successfully
+2021-01-03 22:20:35,844 - INFO - views.py - logout - 70 - lynn successfully log out
+2021-01-03 22:20:35,844 - INFO - views.py - logout - 74 - delete user cookies
+2021-01-03 22:28:09,406 - INFO - views.py - adminLogin - 47 - successfully log into the management system
+2021-01-03 22:28:22,623 - INFO - views.py - logout - 70 - admin successfully log out
+2021-01-03 22:28:22,625 - INFO - views.py - logout - 74 - delete user cookies
