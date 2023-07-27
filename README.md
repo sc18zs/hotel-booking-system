@@ -34,9 +34,57 @@ Same conditions described above applies to form submissions that change password
 ### Database
 
 ![image](https://github.com/sc18zs/hotel-booking-system/blob/main/IMG/database.png)
+
 ### Sessions or cookies
+When the user logs in and chooses the option to remain logged in, the website uses cookies to store user information. When the user opens the website page again, the stored infor- mation is automatically logged in. This information will be deleted after the user logs out. In addition, the first page will display a cookie usage reminder to the user.
 
+In the room reservation page, session is used to store the check-in and departure times entered by the user, so as to save the query record of each date and send the information to the order page for display. The changed time will be automatically updated when the user resubmits the query form.
 
+In the user order query page, session is used to store the order filter information entered by the user, so as to ensure that the query condition can be saved when the page is turned.
+
+### Authentication
+When the user enters the login information, the user record will be matched in the data, and if the information is correct, it will redirect to the hotel page. When you select the option to remain logged in at logon time, the site will use cookie user information to automatically log in the next time the user opens a web page. The website will remind you to use cookies on the front page. Users can log out by clicking the logout link at the top right. Flash reminds the user of their current status when they log in and log out successfully. The site allows users to change their passwords. The site provides a form for users to enter their account information and a new password, and flash alerts when the password is incorrectly formatted or the account information is incorrect.
+
+### Styling
+
+The web page follows a responsive design to ensure a good user experience on different devices.
+
+### Logging
+This project outputs the logs in a set format (stored in flask.log) and grades the logs in four type: debug, info, error, critical.
+
+## Other features
+### Bootstrap and jQuery
+This project uses JQuery date picker plug-in colored by Bootstrap to help the user enter a date in the form, locate the date picker to the date of the day, and help the user select a reasonable time period.
+
+### Geolocation
+The site has set up an interface to call Api interface to display the location of the hotel.
+
+### Administration
+This website also provide an entrance to the background stage for administrator.
+
+### Send email
+Every time when user finished booking, a confirm email will be received from admin.
+
+## Analysis and evaluation
+The website test results on main web browsers are as follows: As shown here, the style and some features can be implemented successfully in these web browsers. The following is a detailed assessment of each function:
+
+1. Web forms: the designed forms can successfully allowed user to input data and post data into server side to do operations. It can give warnings for wrong input format and also receive flash information from server side and display to users which is much more convenient for individual to check webpage status. However, this website need to collect some identity information, like ID number, which may be hard to validate except only by checking data format.
+
+2. Database: the database is designed including a many to many relationship, which needs a relation table to connect. The hotel list page and room list page is displayed by read records information from hotels and rooms table. This design is good for admin to add new hotels information in this booking system by insert records into database instead of change templates.
+
+Users can fill in the search bar according to their needs, and the background will filter the matching information in the database and send the information to the client for dis- play. This is good for users experience when searching matched hotels or orders intelligently.
+This limitation is that some information stored in this database may not be used be- cause of shortage design.
+
+3. Sessions and cookies: sessions and cookies are used for store some information about user actions so that it can have better interaction with client server. Also, this website show a cookie usage agreement for users to let them know the website status.
+  
+4. Authentication: this website restrict the logins of non-authenticated users by matching login information based on user records in the database. In addition, some web pages are only displayed to authenticated users, such as personal account page and administrator background, which can only be accessed by corresponding user roles, enhancing the secu- rity of the website.
+   
+5. Deployment: test results after website deployment is shown here: Some functions like geolocation and sending email can not be correctly implemented due to the restrict access to the external network by pythonanywhere.
+
+## Security
+In order to enhance the security of the website, the system is set to store the user’s pass- word and ID number encrypted into the database by using hash code, in case the user’s personal new information is leaked and causing losses.
+
+The security of cookies stored by websites is relatively low, so the data stored by the system using cookies does not include important information such as user password.
 
 
 
